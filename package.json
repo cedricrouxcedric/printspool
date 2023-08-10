@@ -1,0 +1,13 @@
+{
+  "name": "printspool",
+  "version": "1.0.0",
+  "description": "Print redirection",
+  "main": "main.js",
+  "repository": "https://github.com/cedricrouxcedric/printspool",
+  "author": "Cedric",
+  "license": "MIT",
+  "private": null,
+  "devDependencies": {
+    "electron": "^25.5.0"
+  }
+}
