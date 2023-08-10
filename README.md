@@ -1,0 +1,2 @@
+# printspool
+print redirection
